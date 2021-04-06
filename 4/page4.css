@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+    font-family: monospace;
+    color:black;
+  }
+div{
+    border-width: 8px;
+    border-style:double;
+    font-size: 15px;
+
+#main {
+    max-width: 600px;
+    margin: 0 auto; 
+  }
+

@@ -1,0 +1,14 @@
+body{
+  background-color: aqua;
+  font-family: monospace;
+  color: black;
+}
+div{
+  font-size: 15px;
+  margin: 0 0 1em 1em;
+  background-color: #de0500;
+}
+img {
+  float: right;
+  margin: 0 0 1em 1em;
+}

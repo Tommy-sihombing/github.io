@@ -1,0 +1,36 @@
+body{
+  background-color:white;
+  font-family: monospace;
+}
+.container {
+    position: relative;
+    border:aqua;
+    border-style: ridge;
+  }
+  nav {
+    position: absolute;
+    left: 0px;
+    width: 200px;
+    border: purple;
+    border-style: dashed;
+  }
+  section {
+    /* position is static by default */
+    margin-left: 200px;
+    border: yellow;
+    border-style:ridge;
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: whitesmoke;
+    width: 100%;
+    border: green;
+    border-style:ridge;
+    
+  }
+  body {
+    margin-bottom: 120px;
+  }

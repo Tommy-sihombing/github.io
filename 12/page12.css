@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    font-family: monospace;
+    color: blac;
+}
+nav {
+    float: left;
+    width: 200px;
+    border: #de0500;
+    border-style: solid;
+  }
+section {
+    margin-left: 200px;
+    border: #131c3d;
+    border-style: dashed;
+  }

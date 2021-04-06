@@ -1,0 +1,19 @@
+.simple {
+    width: 500px;
+    margin: 20px auto;
+    border: solid;
+    padding: 20px;
+  }
+  
+  .fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border-width: 10px;
+    border: dashed;
+    color: brown ;
+  }
+body{
+    background-color:aqua;
+    color: #131c3d;
+}
